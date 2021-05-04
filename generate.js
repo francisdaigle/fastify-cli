@@ -61,6 +61,7 @@ const typescriptTemplate = {
     '@types/node': cliPkg.devDependencies['@types/node'],
     '@types/tap': cliPkg.devDependencies['@types/tap'],
     concurrently: cliPkg.devDependencies.concurrently,
+    'cross-env': cliPkg.devDependencies['cross-env'],
     'fastify-tsconfig': cliPkg.devDependencies['fastify-tsconfig'],
     tap: cliPkg.devDependencies.tap,
     typescript: cliPkg.devDependencies.typescript
